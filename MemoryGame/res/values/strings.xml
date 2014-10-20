@@ -6,8 +6,11 @@
     <string name="hello_world">Hello world!</string>
     <string name="reset_label">Reset</string>
     <string name="a">a</string>
+    <string name="enter_name">please enter your name</string>
+    <string name="done">done</string>
     <string name="name_prompt">Enter your name:  </string>  
     <string name="button_label">Continue</string>
     <string name="desc">One of the buttons on the Memory board</string>
     <string name="title_activity_user_name">User Name</string>
-</resources>
+    <string name="action_reset">New Game</string>
+	</resources>
